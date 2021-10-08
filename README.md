@@ -7,7 +7,7 @@ Grade: A or 10
 
 </br>
 
-- ### Activity 1 - atividade_01.ipynb
+### Activity 1 - atividade_01.ipynb
 
 Dataset:  Mnist
 
@@ -17,7 +17,7 @@ Validation accuracy: 97.98%
 
 </br>
 
-- ### Activity 2 - atividade_02.ipynb
+### Activity 2 - atividade_02.ipynb
 
 Dataset: Fashion mnist
 
@@ -27,7 +27,7 @@ Validation accuracy: 91.57%
 
 </br>
 
-- ### Activity 3 - atividade_03.ipynb
+### Activity 3 - atividade_03.ipynb
 
 Dataset: 150 Pokemon unbalanced classes
 
