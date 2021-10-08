@@ -1,9 +1,8 @@
 # Introduction to Neural Network elective IFB 1/2021
 
-Introdução a Redes Neurais Optativa IFB 1/2021
-10/05/2021 - 18/09/2021
-Prof. Lucas Paes Moreira
-
+Introdução a Redes Neurais Optativa IFB 1/2021</br>
+10/05/2021 - 18/09/2021</br>
+Prof. Lucas Paes Moreira</br>
 Grade: A or 10
 
 </br>
